@@ -31,7 +31,3 @@ Oferecer uma aplicação web simples, segura e extensível para gestão de acerv
 
 ## 👥 Equipe
 Daniel 
-
----
-
-Pronto para evoluir: limpeza de código, testes e deploy em ambiente real (ex.: Laravel Forge, Docker ou VPS) podem ser próximos passos.
